@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dmendozasommer@gmail.com
+	name = David Mendoza
